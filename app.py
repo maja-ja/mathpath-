@@ -1,11 +1,3 @@
-“””
-數學概念溯源探索器 — Streamlit 版
-點擊任一概念，逐層溯源直到公理
-
-執行方式：streamlit run math_explorer.py
-
-擴充方式：在 CONCEPTS 字典中新增條目
-“””
 
 import streamlit as st
 
